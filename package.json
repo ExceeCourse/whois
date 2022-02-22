@@ -1,0 +1,23 @@
+{
+  "name": "whois-domain",
+  "version": "0.0.1",
+  "description": "Python Whois Lookup Python Languages",
+  "main": "whois.pyc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkullCyberSecurity/whois.git"
+  },
+  "keywords": [
+    "pywhois",
+    "whois_lookup"
+  ],
+  "author": "TomsDroid, Mr.Zck18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkullCyberSecurity/whois/issues"
+  },
+  "homepage": "https://github.com/SkullCyberSecurity/whois#readme"
+}
