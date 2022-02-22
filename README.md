@@ -8,10 +8,14 @@ pkg upgrade
 
 pkg install git
 
-pkg install python2
+pkg install python
 
 git clone https://github.com/SkullCyberSecurity/whois
 
 cd whois
 
-python2 whois.py
+pip install -r requirements.txt
+
+**Note: Waiting for installation Successfully**
+
+python whois.pyc
